@@ -1,0 +1,2 @@
+# gemi
+kökündeki ağırlığı kaybeder
